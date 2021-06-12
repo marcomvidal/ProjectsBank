@@ -9,10 +9,10 @@ Bank of ideas, runtimes, frameworks and infrastructure to explore on projects.
 - [ ] TypeScript
 
 ## Runtimes
-- [ ] Deno
 - [ ] .NET
-- [ ] Node
+- [ ] Deno
 - [ ] JDK
+- [ ] Node
 - [ ] PHP
 
 ## Frameworks
@@ -42,18 +42,18 @@ Bank of ideas, runtimes, frameworks and infrastructure to explore on projects.
 - [ ] Automobile Repair
 - [ ] Bakery
 - [ ] Budget Control
-- [ ] Clinic
+- [ ] Health Clinic
 - [ ] Estate Rentals
 - [ ] Film Rentals
 - [ ] Parking Lot
 - [ ] Store
 
 ## Colors
-- [ ] Red
 - [ ] Blue
-- [ ] Green
-- [ ] Yellow
-- [ ] Purple
-- [ ] Orange
-- [ ] Teal
 - [ ] Gray
+- [ ] Green
+- [ ] Orange
+- [ ] Purple
+- [ ] Red
+- [ ] Teal
+- [ ] Yellow
