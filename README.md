@@ -10,23 +10,19 @@ Bank of ideas, runtimes, frameworks and infrastructure to explore on projects.
 
 ## Runtimes
 - [ ] .NET
-- [ ] Deno
 - [ ] JDK
 - [ ] Node
 - [ ] PHP
 
 ## Frameworks
 - [ ] Angular
-- [ ] ASP.NET MVC
-- [ ] ASP.NET WebAPI
+- [ ] ASP.NET Core MVC
 - [ ] Blazor
 - [ ] Express
 - [ ] Laravel
 - [ ] MAUI
 - [ ] Giraffe
-- [ ] Oak
 - [ ] React
-- [ ] React Native
 - [ ] Spring Boot
 
 ## Infrastructure & DevOps
